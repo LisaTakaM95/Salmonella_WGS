@@ -1,0 +1,56 @@
+# Local software installers
+Miniforge3-MacOSX-arm64.sh
+
+# Raw sequencing data
+data/
+
+# Large trimmed and corrected sequencing reads
+results/trimmed/*.fastq
+results/trimmed/*.fastq.gz
+results/assembly/spades_output/corrected/
+
+# Intermediate SPAdes files
+results/assembly/spades_output/K21/
+results/assembly/spades_output/K33/
+results/assembly/spades_output/K55/
+results/assembly/spades_output/misc/
+results/assembly/spades_output/tmp/
+results/assembly/spades_output/pipeline_state/
+results/assembly/spades_output/assembly_graph*.gfa
+results/assembly/spades_output/assembly_graph*.fastg
+
+# Python and environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+conda-meta/
+
+# macOS files
+.DS_Store
+.AppleDouble
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Ignore SPAdes intermediate output; retain the selected assembly separately
+results/assembly/spades_output/
+
+# Ignore redundant Bakta exports unless explicitly selected
+results/annotation/bakta_SRR8508672/*.embl
+results/annotation/bakta_SRR8508672/*.faa
+results/annotation/bakta_SRR8508672/*.ffn
+results/annotation/bakta_SRR8508672/*.fna
+results/annotation/bakta_SRR8508672/*.gbff
+results/annotation/bakta_SRR8508672/*.json
+results/annotation/bakta_SRR8508672/*.log
+results/annotation/bakta_SRR8508672/*.png
+results/annotation/bakta_SRR8508672/*.svg
+results/annotation/bakta_SRR8508672/*hypotheticals*
+results/annotation/bakta_SRR8508672/*inference*
+
+# Ignore StarAMR auxiliary outputs unless explicitly selected
+results/staramr/SRR8508672/hits/
+results/staramr/SRR8508672/results.xlsx

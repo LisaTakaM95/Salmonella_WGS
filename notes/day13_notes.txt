@@ -1,0 +1,30 @@
+PROJECT GENESIS — DAY 13
+
+Project:
+Salmonella Whole-Genome Sequencing Analysis
+
+Organism:
+Salmonella enterica
+
+Dataset:
+SRR8508672
+
+Study:
+Public Health England - Salmonella
+
+Sequencing platform:
+Illumina HiSeq 2500
+
+Sequencing strategy:
+Whole Genome Sequencing
+
+Layout:
+Paired-end
+
+Biological area:
+Infectious disease / genomic surveillance
+
+Initial research question:
+How can whole-genome sequencing data be processed and analysed
+to characterize genetic variation in bacterial isolates relevant
+to infectious disease surveillance?

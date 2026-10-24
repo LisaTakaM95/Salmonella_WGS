@@ -1,0 +1,29 @@
+
+PROJECT GENESIS — DAY 14
+SPAdes Genome Assembly Results
+
+Dataset:
+SRR8508672
+
+Assembler:
+SPAdes v4.3.0
+
+Assembly statistics (original):
+Contigs: 140
+Total length: 4,913,507 bp
+Largest contig: 917,034 bp
+
+Assembly statistics (filtered ≥500 bp):
+Contigs: 48
+Total length: 4,899,544 bp
+Minimum contig length: 583 bp
+Maximum contig length: 917,034 bp
+Average contig length: 102,073.8 bp
+N50: 348,292 bp
+L50: 5 contigs
+GC content: 51.9%
+Ambiguous bases (N): 0
+
+Interpretation:
+The assembly represents a high-quality draft bacterial genome.
+Genome size and GC content are consistent with Salmonella enterica.
