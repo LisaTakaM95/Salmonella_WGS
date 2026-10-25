@@ -27,6 +27,8 @@ venv/
 conda-meta/
 
 # macOS files
+# MOB-recon sequence exports retained locally
+results/plasmid/mob_recon_SRR8508672/*.fasta
 .DS_Store
 .AppleDouble
 
