@@ -1,0 +1,49 @@
+sample_id	molecule_type	primary_cluster_id	secondary_cluster_id	contig_id	size	gc	md5	circularity_status	rep_type(s)	rep_type_accession(s)	relaxase_type(s)	relaxase_type_accession(s)	mpf_type	mpf_type_accession(s)	orit_type(s)	orit_accession(s)	predicted_mobility	mash_nearest_neighbor	mash_neighbor_distance	mash_neighbor_identification	repetitive_dna_id	repetitive_dna_type	filtering_reason
+contigs_min500	chromosome	-	-	NODE_10_length_142453_cov_32.929311	142453	0.5230497076228651	6daed19087de4d9c03d9f7d033866eda	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_11_length_124461_cov_25.176800	124461	0.5281252761909353	da0bc022e729f76038645702f3bc94a2	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_12_length_117345_cov_34.580578	117345	0.5113042737227832	0d81670397999573061bfff04a9e92b5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_13_length_105849_cov_30.733113	105849	0.5169533958752562	096fbd765504a4f7d9462fcd2a97ce10	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_14_length_103386_cov_32.097570	103386	0.5238910490782117	225467e0a5870944ca34f7af7c82e4c9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_15_length_98797_cov_30.113123	98797	0.5372329119305242	6df4c58dfa69f87e6481f2ce563230f6	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_16_length_96146_cov_25.895724	96146	0.5152268425103489	172743eff3cb4a3c32a2d4987a807af0	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_17_length_93902_cov_32.747365	93902	0.5307874166684415	95c1a6334f2a57ff405ad23407136379	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_18_length_73697_cov_34.828196	73697	0.530767873861894	a9b28f0787f06fe2c270c9d2d5a26143	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_19_length_73483_cov_24.917988	73483	0.5322047276240763	8094a045f5a31935f39fc5129e005fcc	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_1_length_917034_cov_23.137490	917034	0.509783715761902	4a2bade749a2882d38c6f3c58677608e	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_20_length_67440_cov_24.648230	67440	0.5359875444839858	6cd431da490c0431bba7e8ee30efd17b	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_21_length_56510_cov_24.827721	56510	0.544452309325783	efb94b1c8d9d06f394b8370ef283d21f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_22_length_45349_cov_24.300216	45349	0.5184237800171999	3c8ff6750df70073a3440de816d22cb1	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_23_length_44762_cov_31.002528	44762	0.5194361288593004	ca56648ca90e4324e433a2382f2b32ce	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_24_length_32268_cov_29.876944	32268	0.5339965290690467	6fcd0cf7e786ecc05f3000d252acff2c	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_25_length_26401_cov_33.006035	26401	0.4795272906329306	2b7b206bbc6bae764025a411098a4d6f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_26_length_26108_cov_32.971251	26108	0.5069327409223227	b3c1035a5cb1e4301c8149cf3b461b57	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_27_length_11185_cov_26.085984	11185	0.4577559231113098	b2a375fe7902dce670748d005f805070	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	plasmid	AB595	AK439	NODE_28_length_8623_cov_244.528595	8623	0.5609416676330743	ac1ace45bc59f045fc435fa658e852c5	not tested	ColRNAI_rep_cluster_1857	000009__CP017845	-	-	-	-	-	-	-	CP023647	0.0084995	Shigella sonnei	-	-	-
+contigs_min500	chromosome	-	-	NODE_29_length_7183_cov_25.107604	7183	0.48628706668522903	a09265027a9c12acca26d3be66d0acd5	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_2_length_500738_cov_22.828696	500738	0.5023125866221457	cb7a0c9bdff7a934c8708bbbcba5d159	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_30_length_4602_cov_35.407961	4602	0.6675358539765319	dbee90840971d270bddc317bfe8ca672	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_31_length_4374_cov_33.748553	4374	0.4961133973479652	d4df2db63391ccf7c633c9e061b1f61a	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	plasmid	AD168	AM625	NODE_32_length_4270_cov_777.479241	4270	0.4786885245901639	7c39c8bc35ecc51cfdeedf7c81ab739b	not tested	rep_cluster_2335	KU302809_00001	-	-	-	-	MOBP	CP008720	-	CP011434	0.00277069	Salmonella enterica subsp. enterica serovar Typhimurium	-	-	-
+contigs_min500	plasmid	AB038	AJ575	NODE_33_length_3673_cov_889.152570	3673	0.4323441328614212	82757a4f7a3496cade293fa5be28091d	not tested	ColRNAI_rep_cluster_1987	000020__CP023920	-	-	-	-	MOBP	CP008720	-	CP034825	0.00804257	Salmonella sp. SSDFZ54	-	-	-
+contigs_min500	plasmid	AA163	AH811	NODE_34_length_3428_cov_703.304180	3428	0.5525087514585765	4d49e659c30641ce4c261049d408df4d	not tested	-	-	MOBP	NC_014003_00004	-	-	MOBP	NZ_CP011065	-	CP035128	0.000119496	Escherichia coli	-	-	-
+contigs_min500	chromosome	-	-	NODE_35_length_2246_cov_42.090370	2246	0.4634906500445236	8058ac31d6d31f4cb78f473e58bd4481	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_36_length_1692_cov_243.676848	1692	0.5295508274231678	8f35e40c0bbf971892daa06cbdc293b9	not tested	-	-	-	-	-	-	-	-	-	-	-	-	CP016586.1	16s-rRNA	repetitve element
+contigs_min500	chromosome	-	-	NODE_37_length_1449_cov_43.522956	1449	0.5514147688060732	012a12b9e70822049553b911ce2fdcb8	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_38_length_1019_cov_64.075726	1019	0.5456329735034348	cd5fef7d064fe65b62ee48367d15273d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_39_length_974_cov_51.714908	974	0.648870636550308	12be03786084cb1c0728a4d332e5e128	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_3_length_467838_cov_28.304312	467838	0.5203895365489764	4eace21543503626bf76011b3fd4a852	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_40_length_955_cov_33.947778	955	0.7214659685863875	d70103d685b64bba7637fd2c52b49cc7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_41_length_946_cov_230.483726	946	0.5052854122621564	a133b4d7039fc384ee304e2139a72ee7	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_42_length_851_cov_66.783920	851	0.5464159811985899	87883d4d7c146238e64cccb59372d834	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_43_length_810_cov_19.386755	810	0.6851851851851852	9bb9c31bbbcac4111facc1194cbbd62f	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_44_length_804_cov_44.987984	804	0.5646766169154229	2a8c14a604f4d304c271ae1aa79f453d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_45_length_738_cov_34.550512	738	0.5040650406504065	52b8ac1950e35524f399c977a90f0fc3	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_46_length_615_cov_227.421429	615	0.5317073170731708	cbd7d454f6897c3a8bbd2abb91144772	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_47_length_593_cov_38.477695	593	0.551433389544688	3275325fc4f7e41153de422167d61032	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_48_length_583_cov_289.259470	583	0.5368782161234992	d26d77efd88482c227623ae928025981	not tested	-	-	-	-	-	-	MOBP	AJ001708	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_4_length_410559_cov_33.248285	410559	0.529022625249964	c862cc1df1e55bdcc59099e55a72f3fa	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_5_length_348292_cov_28.211540	348292	0.5136781780804612	aabae16f086e8bbbeaab6ac65baca7dd	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_6_length_276344_cov_30.335308	276344	0.5203261152766118	60a9c520e92106870792c0d583142511	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_7_length_229850_cov_27.425440	229850	0.5363149880356755	e70b0fee3f8e9980c975517fc3d69198	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_8_length_204385_cov_31.518945	204385	0.5147099836093647	4862e5d8a41eb81c99aa6f51a08b800d	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+contigs_min500	chromosome	-	-	NODE_9_length_154534_cov_25.162365	154534	0.540217686722663	ca3b5a3b0087f8ec3b8f41bbc327ce30	not tested	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-

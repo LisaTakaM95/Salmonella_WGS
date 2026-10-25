@@ -1,0 +1,2 @@
+Isolate ID	Gene	Predicted Phenotype	CGE Predicted Phenotype	Type	Position	Mutation	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Pointfinder Position	CGE Notes	CGE Required Mutation	CGE Mechanism	CGE PMID
+contigs_min500	parC (T57S)	-	Nalidixic acid,Ciprofloxacin	codon	57	ACC -> AGC (T -> S)	98.01	100.00	2259/2259	NODE_6_length_276344_cov_30.335308	200692	198434	T57S		gyrA_S83Y.F.A;gyrA_D87N.G.Y.K	Target modification	15388468
