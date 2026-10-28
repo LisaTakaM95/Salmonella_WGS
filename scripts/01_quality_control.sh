@@ -12,6 +12,14 @@ READ2="data/SRR8508672_2.fastq"
 
 OUTDIR="results/trimmed"
 
+if [[ -e "$OUTDIR/SRR8508672_1.trimmed.fastq" ||
+      -e "$OUTDIR/SRR8508672_2.trimmed.fastq" ||
+      -e "$OUTDIR/fastp.html" ||
+      -e "$OUTDIR/fastp.json" ]]; then
+    echo "ERROR: Quality-control output files already exist. Refusing to overwrite." >&2
+    exit 1
+fi
+
 mkdir -p "$OUTDIR"
 
 fastp \
