@@ -28,7 +28,7 @@ Raw sequencing data are not included in this repository. The accession can be us
 6. **Additional AMR screening** — AMRFinderPlus was used to identify antimicrobial-resistance determinants.
 7. **Plasmid characterization** — MOB-recon outputs were generated to investigate candidate plasmid-associated sequences.
 
-Workflow scripts, complete software version records, and additional methodological details will be added as the repository is finalized.
+Five executable workflow scripts, Conda environment specifications, and detailed reproducibility documentation are available in this repository.
 
 ## Results
 
@@ -104,7 +104,9 @@ These predictions require appropriate interpretation and do not, by themselves, 
 - `results/plasmid/` — MOB-recon outputs.
 - `results/trimmed/` — selected read-preprocessing reports.
 - `notes/` — project notes and analysis records.
-- `scripts/` — location for workflow scripts as they are documented and finalized.
+- `scripts/` — five Bash scripts covering quality control, assembly, annotation, AMR analysis, and plasmid reconstruction.
+- `environments/` — Conda environment specifications for annotation, StarAMR, and plasmid analysis.
+- `docs/` — reproducibility documentation, including software versions, reference databases, and pipeline execution instructions.
 
 Only selected outputs should be committed. Large raw reads, temporary files, and redundant intermediate files are excluded.
 
@@ -113,11 +115,22 @@ Only selected outputs should be committed. Large raw reads, temporary files, and
 - The assembly statistics alone do not establish genome completeness, contamination status, or overall assembly accuracy.
 - Genomic resistance predictions do not establish phenotypic susceptibility or clinical treatment outcomes.
 - Plasmid reconstruction and mobility classifications are computational predictions.
-- Reproducibility requires documented commands, software versions, and database versions; these records are still being consolidated.
+- Software versions, reference database releases, and workflow commands are documented; clean-environment recreation and independent end-to-end reproduction have not yet been validated.
 
 ## Reproducibility
+The repository includes five Bash scripts documenting the analytical workflow, three exported Conda environment specifications, and a dedicated reproducibility guide.
 
-The repository is being organized to document the analysis and retain selected outputs. A finalized set of executable workflow scripts and environment specifications will be added after the commands and software versions have been verified.
+The reproducibility guide documents:
+
+- Software versions, database releases, and execution commands are documented; independent end-to-end reproduction has not yet been validated.
+- Reference database releases and revision identifiers.
+- Retrieval of the public sequencing dataset `SRR8508672`.
+- Pipeline execution order and input requirements.
+- Scientific interpretation limitations.
+
+See [Reproducibility and Software Dependencies](docs/REPRODUCIBILITY.md) for detailed instructions.
+
+The workflow has been documented, but clean-environment recreation and independent end-to-end reproduction have not yet been validated.
 
 ## Scope
 
